@@ -1,0 +1,19 @@
+﻿# Editor/IDE
+.vscode/
+*.code-workspace
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# WordPress
+wp-content/uploads/
+*.log
+
+# SO
+Thumbs.db
+.DS_Store
